@@ -1,0 +1,1 @@
+tut = 'chto_to_napisanno'
