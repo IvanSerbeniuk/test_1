@@ -1,2 +1,4 @@
 tut = 'chto_to_napisanno', 'sdsadf'
-slfkj = 9
+slfkj = 965
+def slkfj():
+    return 1
