@@ -1,1 +1,1 @@
-tut = 'chto_to_napisanno'
+tut = 'chto_to_napisanno', 'sdsadf'
